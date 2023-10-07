@@ -1,0 +1,6 @@
+framework module Pods_ChihoGuesser {
+  umbrella header "Pods-ChihoGuesser-umbrella.h"
+
+  export *
+  module * { export * }
+}
